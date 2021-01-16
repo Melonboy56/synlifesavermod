@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Minecraft Client" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_271\jre" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="net.fabricmc.devlaunchinjector.Main" />
+    <module name="Syn_livesaver_Mod.main" />
+    <option name="VM_PARAMETERS" value="-Dfabric.dli.config=C:\Users\Melon\Desktop\Syn@@0020livesaver@@0020Mod\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=client -Dfabric.dli.main=net.fabricmc.loader.launch.knot.KnotClient" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

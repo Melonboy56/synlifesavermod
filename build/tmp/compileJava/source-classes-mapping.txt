@@ -1,0 +1,12 @@
+melon/syn/lifesaver/config_gui.java
+ melon.syn.lifesaver.config_gui
+melon/syn/lifesaver/installer.java
+ melon.syn.lifesaver.installer
+ melon.syn.lifesaver.installer$1
+ melon.syn.lifesaver.installer$2
+melon/syn/lifesaver/configloader.java
+ melon.syn.lifesaver.configloader
+melon/syn/lifesaver/show_config_gui.java
+ melon.syn.lifesaver.show_config_gui
+melon/syn/lifesaver/Main.java
+ melon.syn.lifesaver.Main
